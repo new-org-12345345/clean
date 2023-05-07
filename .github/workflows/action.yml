@@ -13,3 +13,4 @@ jobs:
         run: |
           # Put your script commands here
           echo "Hello, world!"
+          echo "The time is $(date) where I am adding evil code."
